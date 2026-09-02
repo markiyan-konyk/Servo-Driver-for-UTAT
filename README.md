@@ -1,5 +1,5 @@
-![Alternative text for the image](images/screenshot.png)
-![Alternative text for the image](images/screenshot.png)
+![Schematic](schematic.png)
+![PCB](PCB.png)
 # Servo-Driver-for-UTAT
 
 This is my first project in UTAT Rocketry Avionics where alongside my partner in the project we designed the board that will control the servos of the rocket, by receiving information from an arduino, and translating and amplifying that current.
