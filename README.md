@@ -1,4 +1,4 @@
-![Schematic](schematic.png)
+![Schematic](Schematic.png)
 ![PCB](PCB.png)
 # Servo-Driver-for-UTAT
 
